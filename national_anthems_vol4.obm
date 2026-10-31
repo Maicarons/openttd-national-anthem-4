@@ -1,0 +1,98 @@
+; National anthems of the world — Volume 4 of 6 (OpenTTD Base Music)
+; Auto-generated; slot assignment is deterministic from ISO codes.
+
+[metadata]
+name              = national_anthems_vol4
+shortname         = ANT4
+version           = 1
+description       = National anthems of the world — Volume 4 of 6 (OpenTTD Base Music set).
+
+[files]
+theme    = kw.mid
+old_0    = la.mid
+old_1    = lb.mid
+old_2    = lc.mid
+old_3    = lk.mid
+old_4    = lr.mid
+old_5    = ls.mid
+old_6    = lt.mid
+old_7    = lv.mid
+old_8    = ly.mid
+old_9    = ma.mid
+new_0    = mc.mid
+new_1    = mg.mid
+new_2    = ml.mid
+new_3    = mn.mid
+new_4    = mr.mid
+new_5    = mt.mid
+new_6    = mu.mid
+new_7    = mv.mid
+new_8    = mw.mid
+new_9    = mx.mid
+ezy_0    = my.mid
+ezy_1    = mz.mid
+ezy_2    = na.mid
+ezy_3    = ne.mid
+ezy_4    = ng.mid
+ezy_5    = ni.mid
+
+[md5s]
+kw.mid   = 2b3597dd2997d158d58b5d85a8d93663
+la.mid   = ceb2cd827787a956826a5cd3f82508d8
+lb.mid   = 114163795a66861f05c3ddbf670b9741
+lc.mid   = 01b20ae0883173e39a2b0bf42d06bafa
+lk.mid   = 6fc6a5538761099258215786db181014
+lr.mid   = c53d2bb1ac144922f06b7d3c777fbdce
+ls.mid   = 11e0719eafb45c61bf8e00f54da993a0
+lt.mid   = 59b52fe95f1ef8c4ff03126d50814f06
+lv.mid   = a26156fea118f220f2852ab6d8e18b3a
+ly.mid   = eac76ac41b11e6cf2051bcd879704bc8
+ma.mid   = 5cb9a07f4198dba3a78365c7e01beb74
+mc.mid   = b88fcda9059ad2dcf953280b5b05e5cd
+mg.mid   = 0ceac8a2fb9a3a577d96c58afa106b45
+ml.mid   = 75091de91e604c6c5b8fd89a09579f17
+mn.mid   = de40f65a6619f0429fa8ab1295922064
+mr.mid   = d9ce3e6c00c3e594d1021923442f952f
+mt.mid   = 17339e5a4c03c532935ba8a0dabdfb0f
+mu.mid   = 4d7dc22cf0b27abd47ef9804e0373473
+mv.mid   = 5139e28ed1740d46d668846256b01bbd
+mw.mid   = 279c1ccc7c56104550a920129426772c
+mx.mid   = f865cd67bd64b8858f39a6303026567b
+my.mid   = a9a85acbfe5b3a7e5b0482fb4add176b
+mz.mid   = 1c78f112b0fcdeb7c017258c91e0ec3c
+na.mid   = 582b7b8d342570f38bf9f20f0ffe3e88
+ne.mid   = f8465de0a01aca4d1daafd9950784cb8
+ng.mid   = b461d896de250fa6840435cadf0d26cf
+ni.mid   = 2933442913ceb97f11ddc37fa0fef1a9
+
+[names]
+theme    = Kuwait
+old_0    = Laos
+old_1    = Lebanon
+old_2    = Saint Lucia
+old_3    = Sri Lanka
+old_4    = Liberia
+old_5    = Lesotho
+old_6    = Lithuania
+old_7    = Latvia
+old_8    = Libya
+old_9    = Morocco
+new_0    = Monaco
+new_1    = Madagascar
+new_2    = Mali
+new_3    = Mongolia
+new_4    = Mauritania
+new_5    = Malta
+new_6    = Mauritius
+new_7    = Maldives
+new_8    = Malawi
+new_9    = Mexico
+ezy_0    = Malaysia
+ezy_1    = Mozambique
+ezy_2    = Namibia
+ezy_3    = Niger
+ezy_4    = Nigeria
+ezy_5    = Nicaragua
+
+[origin]
+default      = National anthems of the world — OpenTTD Base Music, Volume 4 of 6.
