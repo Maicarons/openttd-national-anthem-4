@@ -35,6 +35,10 @@ ezy_2    = na.mid
 ezy_3    = ne.mid
 ezy_4    = ng.mid
 ezy_5    = ni.mid
+ezy_6    = kw.mid
+ezy_7    = la.mid
+ezy_8    = lb.mid
+ezy_9    = lc.mid
 
 [md5s]
 kw.mid   = 2b3597dd2997d158d58b5d85a8d93663
@@ -93,6 +97,10 @@ ezy_2    = Namibia
 ezy_3    = Niger
 ezy_4    = Nigeria
 ezy_5    = Nicaragua
+ezy_6    = Kuwait
+ezy_7    = Laos
+ezy_8    = Lebanon
+ezy_9    = Saint Lucia
 
 [origin]
 default      = National anthems of the world — OpenTTD Base Music, Volume 4 of 6.
